@@ -1,0 +1,2 @@
+- https://atcoder.jp/contests/arc029/submissions/8882615
+- https://ideone.com/SS3B5f
